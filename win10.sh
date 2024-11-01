@@ -28,19 +28,19 @@ case $choice in
     1)
         # Windows Server 2016
         img_file="windows2016.img"
-        iso_link="https://npbar21.lol/win10.ISO"
+        iso_link="https://nobar21.lol/win10.ISO"
         iso_file="windows2016.iso"
         ;;
     2)
         # Windows Server 2019
         img_file="windows2019.img"
-        iso_link="https://npbar21.lol/win10.ISO"
+        iso_link="https://nobar21.lol/win10.ISO"
         iso_file="windows2019.iso"
         ;;
     3)
         # Windows Server 2022
         img_file="windows2022.img"
-        iso_link="https://npbar21.lol/win10.ISO"
+        iso_link="https://nobar21.lol/win10.ISO"
         iso_file="windows2022.iso"
         ;;
     *)
